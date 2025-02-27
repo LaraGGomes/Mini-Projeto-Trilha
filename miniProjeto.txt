@@ -1,0 +1,118 @@
+-------------------- Mini Projeto por Lara Gomes --------------------
+
+1. Todos os titulos de filmes:
+   The Shawshank Redemption
+
+============================================
+
+2. Todos os titulos de series:
+   Breaking Bad
+
+============================================
+
+3. Recuperar o filme/serie com maior nota (rating):
+   Breaking Bad - 9.5
+
+============================================
+
+4. Listar os generos de todos os filmes e series:
+   Crime, Thriller, Drama
+
+============================================
+
+5. Obter o numero total de filmes e series:
+   13
+
+============================================
+
+6. Listar todas as plataformas de streaming disponiveis:
+   Amazon Prime, Netflix
+
+============================================
+
+7. Filtrar os filmes/séries disponíveis em 4K no Netflix:
+   The Shawshank Redemption, Breaking Bad
+
+============================================
+
+8. Identificar plataformas onde um filme específico está disponível:
+   
+   The Shawshank Redemption: Netflix - https://www.netflix.com/title/70005379
+
+============================================
+
+9. Listar todos os atores e os personagens que interpretam:
+
+   Tim Robbins - Andy Dufresne
+   Morgan Freeman - Ellis Boyd 'Red' Redding
+   Bryan Cranston - Walter White
+   Aaron Paul - Jesse Pinkman
+
+============================================
+
+10. Obter o ator com maior salário em um filme ou série:
+   Morgan Freeman com o salario de 5000000
+
+============================================
+
+11. Listar todas as localizações de filmagem dos filmes:
+
+   Mansfield, Ohio
+   Ashland, Ohio
+
+============================================
+
+12. Listar os diretores de cada filme:
+   The Shawshank Redemption -> Frank Darabont
+
+============================================
+
+13. Obter o filme com maior receita na bilheteria (revenue):
+   The Shawshank Redemption
+
+============================================
+
+14. Calcular o lucro medio dos filmes:
+   28341469
+
+============================================
+
+15. Obter a distribuiçao de vendas de ingressos por regiao:
+   
+   Domestico - 15000000
+   Internacional - 13341469
+
+============================================
+
+16. Listar todos os premios e categorias de cada filme/serie:
+   
+   Academy Awards = Best Picture, ano: 1995.
+   Filmes indicados: Forrest Gump, Pulp Fiction, Four Weddings and a Funeral, Quiz Show.
+
+   Primetime Emmy Awards = Outstanding Drama Series, ano: 2013.
+   Series indicados: Game of Thrones, Mad Men, House of Cards.
+
+============================================
+
+17. Identificar filmes/series que ganharam premios:
+   Breaking Bad
+
+============================================
+
+18. Listar os indicados ao premio de 'Melhor Filme' de cada ano:
+   1995 -> The Shawshank Redemption
+
+============================================
+
+19. Obter o comentario com maior numero de votos uteis:
+   The best TV show ever made!
+
+============================================
+
+20. Calcular a nota media dos filmes:
+   9.3
+
+============================================
+
+21. Filtrar todas as avaliaçoes feitas antes de 2022:
+   The best TV show ever made!
