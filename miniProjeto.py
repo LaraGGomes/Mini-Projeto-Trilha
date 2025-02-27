@@ -391,5 +391,5 @@ with open ("C:/Users/larag/OneDrive/Área de Trabalho/Trilha/miniProjeto.txt", '
     arquivo.write("\n20. Calcular a nota media dos filmes:\n   ")
     arquivo.write(media_nota)
     divisoria()
-    arquivo.write("\n20. Filtrar todas as avaliaçoes feitas antes de 2022:\n   ")
+    arquivo.write("\n21. Filtrar todas as avaliaçoes feitas antes de 2022:\n   ")
     arquivo.write(avaliacoes)
