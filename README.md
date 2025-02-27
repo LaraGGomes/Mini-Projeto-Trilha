@@ -23,17 +23,18 @@ Este mini-projeto consiste em um parser de arquivos JSON que extrai e organiza i
 ```bash
 git clone https://github.com/laraggomes/mini-projeto-trilha.git
 cd mini-projeto-trilha
-```bash
+```
 2. Execute o script principal:
 ```bash
 python miniProjeto.py
-```bash
+```
 3. Verifique o arquivo de saída gerado:
 ```bash
 cat miniProjeto.txt
-```bash
+```
 
 # 📁 Estrutura do Projeto
+```python
 mini-projeto-trilha/
 ├── miniProjeto.py                # Script principal
 ├── data/                         # Diretório com arquivos JSON de entrada
@@ -41,6 +42,7 @@ mini-projeto-trilha/
 ├── output/                       # Diretório com arquivos de saída
 │   └── miniProjeto.txt           # Relatório gerado
 └── README.md                     # Este arquivo
+```
 
 # 📝 Exemplo de Entrada (JSON)
 ```json
@@ -53,7 +55,7 @@ mini-projeto-trilha/
   "duracao": 148,
   "classificacao": 8.8
 }
-```json
+```
 # 📞 Contato
 Lara Gomes - laragomes471@gmail.com
 Link do projeto: https://github.com/laraggomes/mini-projeto-trilha
